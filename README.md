@@ -16,3 +16,6 @@ Repository showcasing the tasks assigned for learning the basics of git and gith
 | git branch | Used to list the available branches. By doing "git branch \<branch name\>" we can create a branch . By adding flags (-m (moving), -d (delete) we can perform moving,deleteing of branches too | [View](/images/git_branch_screenshot.png) |
 | git checkout | Used to set up the git configurations like username, password, etc. at global or local level | [View](/images/git_checkout_screenshot.png) |
 | git pull | Used to pull the remote repository to the local branch | [View](/images/git_pull_screenshot.png) |
+| git add | Used to add changes to the staging area | [View](/images/git_add_screenshot.png) |
+| git commit | Used to commit the changes making them ready to be pushed to the remote repository | [View](/images/git_commit_screenshot.png) |
+| git push | Used to push the commited changes to remote repository | [View](/images/git_push_screenshot.png) |
