@@ -2,7 +2,7 @@
 Repository showcasing the tasks assigned for learning the basics of git and github
 
 1. [Task 1 - Basic Git Commands](#task-1---basic-git-commands)
-2. Task 2
+2. [Task 2 - Create Repository](#task-2---create-repository)
 3. Task 3
 
 ### Task 1 - Basic Git Commands
@@ -24,3 +24,22 @@ Repository showcasing the tasks assigned for learning the basics of git and gith
 | git show | Used to display the metadata and changes associated with a specified commit | [View](/images/git_show_screenshot.png) |
 | git merge | Used to merge a specified branch with the current branch | [View](/images/git_merge_screenshot.png) |
 | git stash | Used to take our uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy | [View](/images/git_stash_screenshot.png) |
+
+### Task 2 - Create Repository
+
+1. Create an open source repository with proper project structure <br>
+Click this [link](https://github.com/Vibes1209/datascience-project-template/tree/main)
+
+2. Create a detailed README.md file for the above repository <br>
+Click this [link](https://github.com/Vibes1209/datascience-project-template/blob/main/README.md)
+
+3. Add 2 collaborators
+
+* Sending invite and awaiting response <br>
+![Invite Pending Image](/images/collaborators_invite_pending.png "Invite Pending Image")
+
+* After accepting Invite <br>
+![Invite Accepted Image](/images/collaborators_invite_accepted.png "Invite Accepted Image")
+
+4. Host a project page in Github Pages <br>
+Todo Add project page link
