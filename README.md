@@ -19,3 +19,6 @@ Repository showcasing the tasks assigned for learning the basics of git and gith
 | git add | Used to add changes to the staging area | [View](/images/git_add_screenshot.png) |
 | git commit | Used to commit the changes making them ready to be pushed to the remote repository | [View](/images/git_commit_screenshot.png) |
 | git push | Used to push the commited changes to remote repository | [View](/images/git_push_screenshot.png) |
+| git log | Lists the version history for a branch or for a specified file | [View](/images/git_log_screenshot.png) |
+| git diff | Displays the difference in content between two branches | [View](/images/git_diff_screenshot.png) |
+| git show | Used to display the metadata and changes associated with a specified commit | [View](/images/git_show_screenshot.png) |
