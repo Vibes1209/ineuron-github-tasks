@@ -68,7 +68,7 @@ Dependabot alert is enabled and notifications are configured <br><br>
 ![Dependabot Alert Enabled](/images/dependabot_alert_enabled.png "Dependabot Alert Enabled")
 
 6. <b>Stash changes in a branch </b><br><br>
-Use git stash to temporarily shelve changes in a branch and revert them later <br><br>
+Use git stash to temporarily shelve changes in a branch and revert them later with ```git stash pop``` or ```git stash apply``` <br><br>
 ![Stashing Changes](/images/git_stash_screenshot.png "Stash changes with git stash")
 
 7. <b>Create a new release for the project </b><br><br>
@@ -76,5 +76,7 @@ Created initial release with version v0.1.0 <br><br>
 ![Initial Release](/images/release_screenshot.png "Initial Release Created")
 
 8. <b>Set up Project Board for the project </b><br><br>
+* Github Project Board is created<br><br>
 ![Project Board Image](/images/projectboard_screenshot.png "Project Board created") <br><br>
+* Project Board is now linked to the repo <br><br>
 ![Project Board Added Image](/images/projectboard_added_to_repo.png "Project Board added to repo")
