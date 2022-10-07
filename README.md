@@ -27,34 +27,54 @@ Repository showcasing the tasks assigned for learning the basics of git and gith
 
 ### Task 2 - Create Repository
 
-1. Create an open source repository with proper project structure <br>
+1. Create an open source repository with proper project structure <br><br>
 Click this [link](https://github.com/Vibes1209/datascience-project-template/tree/main)
 
-2. Create a detailed README.md file for the above repository <br>
+2. Create a detailed README.md file for the above repository <br><br>
 Click this [link](https://github.com/Vibes1209/datascience-project-template/blob/main/README.md)
 
-3. Add 2 collaborators
+3. Add 2 collaborators <br><br>
 
-* Sending invite and awaiting response <br>
+* Sending invite and awaiting response <br><br>
 ![Invite Pending Image](/images/collaborators_invite_pending.png "Invite Pending Image")
 
-* After accepting Invite <br>
+* After accepting Invite <br><br>
 ![Invite Accepted Image](/images/collaborators_invite_accepted.png "Invite Accepted Image")
 
-4. Host a project page in Github Pages <br>
+4. Host a project page in Github Pages <br><br>
 Project Page containing contact info hosted on Github Pages is available [here](https://vibes1209.github.io/datascience-project-template) <br>
 ![Project Page Image](/images/github_pages_screenshot.png "Project page hosted on Github Pages")
 
 ### Task 3 - Handling Code Changes
 
 1. Create an Issue in the repository <br>
-Issue created from the github repository <br>
+Issue created from the github repository <br><br>
 ![Issue Created Image](/images/create_issue_screenshot.png "Issue Created in the repo")
 
 2. Create a Pull Request for the above issue <br>
-Pull request created along with linking the issue <br>
+Pull request created along with linking the issue <br><br>
 ![Pull Request Created Image](/images/pull_request_for_issue.png "PR created for the issue")
 
 3. Merge the Pull Request <br>
-Pull request was merged with the main branch <br>
+Pull request was merged with the main branch <br><br>
 ![PR Merged Image](/images/merge_request_successful.png "Merge was successful")
+
+4. Reject a Pull Request with comments <br>
+Pull request is reviewed and closed without merging the commits <br><br>
+![PR Merge rejected](/images/rejecting_pr_screenshot.png "PR closed without merging")
+
+5. Add dependabot alert and notify the owner for vulnerability <br>
+Dependabot alert is enabled and notifications are configured <br><br>
+![Dependabot Alert Enabled](/images/dependabot_alert_enabled.png "Dependabot Alert Enabled")
+
+6. Stash changes in a branch <br>
+Use git stash to temporarily shelve changes in a branch and revert them later <br><br>
+![Stashing Changes](/images/git_stash_screenshot.png "Stash changes with git stash")
+
+7. Create a new release for the project <br>
+Created initial release with version v0.1.0 <br><br>
+![Initial Release](/images/release_screenshot.png "Initial Release Created")
+
+8. Set up Project Board for the project <br><br>
+![Project Board Image](/images/projectboard_screenshot.png "Project Board created") <br><br>
+![Project Board Added Image](/images/projectboard_added_to_repo.png "Project Board added to repo")
