@@ -3,7 +3,7 @@ Repository showcasing the tasks assigned for learning the basics of git and gith
 
 1. [Task 1 - Basic Git Commands](#task-1---basic-git-commands)
 2. [Task 2 - Create Repository](#task-2---create-repository)
-3. Task 3
+3. [Task 3 - Handling Code Changes](#task-3---handling-code-changes)
 
 ### Task 1 - Basic Git Commands
 
@@ -42,4 +42,19 @@ Click this [link](https://github.com/Vibes1209/datascience-project-template/blob
 ![Invite Accepted Image](/images/collaborators_invite_accepted.png "Invite Accepted Image")
 
 4. Host a project page in Github Pages <br>
-Todo Add project page link
+Project Page containing contact info hosted on Github Pages is available [here](https://vibes1209.github.io/datascience-project-template) <br>
+![Project Page Image](/images/github_pages_screenshot.png "Project page hosted on Github Pages")
+
+### Task 3 - Handling Code Changes
+
+1. Create an Issue in the repository <br>
+Issue created from the github repository <br>
+![Issue Created Image](/images/create_issue_screenshot.png "Issue Created in the repo")
+
+2. Create a Pull Request for the above issue <br>
+Pull request created along with linking the issue <br>
+![Pull Request Created Image](/images/pull_request_for_issue.png "PR created for the issue")
+
+3. Merge the Pull Request <br>
+Pull request was merged with the main branch <br>
+![PR Merged Image](/images/merge_request_successful.png "Merge was successful")
